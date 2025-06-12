@@ -1,5 +1,5 @@
 # Presentación proyecto final:
-- [Presentación proyecto final](https://www.canva.com/design/DAGmCY6ezpQ/jewSJEZVutvoF-PRD4fX7Q/edit)
+- [Presentación proyecto final](https://www.canva.com/design/DAGmCY6ezpQ/jewSJEZVutvoF-PRD4fX7Q/edit?utm_content=DAGmCY6ezpQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 # Gráficos presentación proyecto final en formato html:
 - [Geolocalización estaciones Bicing](https://isanagui1818.github.io/presentacion-proyecto/Geolocalizacion_estaciones_bicing.html)
