@@ -1,3 +1,7 @@
+# Presentación proyecto final:
+- [Presentación proyecto final](https://www.canva.com/design/DAGmCY6ezpQ/jewSJEZVutvoF-PRD4fX7Q/edit)
+
+# Gráficos presentación proyecto final en formato html:
 - [Geolocalización estaciones Bicing](https://isanagui1818.github.io/presentacion-proyecto/Geolocalizacion_estaciones_bicing.html)
 - [Numero estaciones bicing](https://isanagui1818.github.io/presentacion-proyecto/Num_estaciones_bicing_interactivo.html)
 - [Mapa de calor uso bicis bicing](https://isanagui1818.github.io/presentacion-proyecto/Mapa_de_calor_uso_bicis.html)
@@ -6,5 +10,3 @@
 - [Boxplot renta, distritos, horas de uso](https://isanagui1818.github.io/presentacion-proyecto/diagrama_cajas_grupos_renta.html)
 
 
-https://isanagui1818.github.io/presentacion-proyecto/
-al final añadir el nombre del archivo
