@@ -1,3 +1,6 @@
+# Proyecto final bootcamp It Academy para data analisys:
+Este proyecto es un análisis sobre los datos del Bicing de Barcelona (2020-2024)
+
 # Presentación proyecto final:
 - [Presentación proyecto final](https://www.canva.com/design/DAGmCY6ezpQ/jewSJEZVutvoF-PRD4fX7Q/edit?utm_content=DAGmCY6ezpQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
